@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fiap.GeekBurguer.API", "Fiap.GeekBurguer.API.csproj", "{4C64ACC6-F652-4BDF-9787-439FA6DD079F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fiap.GeekBurguer.API", "Fiap.GeekBurguer.API\Fiap.GeekBurguer.API.csproj", "{4C64ACC6-F652-4BDF-9787-439FA6DD079F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fiap.GeekBurguer.Products.Contract", "..\Fiap.GeekBurguer.Products.Contract\Fiap.GeekBurguer.Products.Contract.csproj", "{22EC2DB1-8B8A-4D86-990E-7C63B896188A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fiap.GeekBurguer.Products.Contract", "Fiap.GeekBurguer.Products.Contract\Fiap.GeekBurguer.Products.Contract.csproj", "{22EC2DB1-8B8A-4D86-990E-7C63B896188A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
